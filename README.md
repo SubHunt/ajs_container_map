@@ -1,3 +1,7 @@
+# Container map
+[![Build status](https://ci.appveyor.com/api/projects/status/d5uwh3385a6u0dww?svg=true)](https://ci.appveyor.com/project/SubHunt/ajs-container-map)
+
+
 # Домашнее задание к лекции «Контейнеры»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
